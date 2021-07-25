@@ -1,0 +1,15 @@
+.imj-banner {
+    color: black;
+    text-align: right;
+    padding: 32px;
+    border-bottom: solid 3px black;
+}
+
+.imj-title {
+    padding-left: 32px;
+}
+
+.imj-logo {
+    height: 45px;
+	width: 45px;
+}
